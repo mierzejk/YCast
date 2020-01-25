@@ -1,3 +1,5 @@
+https://blog.webernetz.net/yamaha-r-n500-network-receiver-packet-capture/
+
 Tcpdumps of AVR-1713. Reason for dumps: If Denon ever discontinues the vtuner service I need to serve my receiver these dumps:
 
 Press Favorite Station 1 long to save current station as favorite.
